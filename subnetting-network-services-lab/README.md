@@ -24,9 +24,14 @@ This lab demonstrates basic CCNA networking configuration using Cisco Packet Tra
 
 ## Skills Practiced
 - Subnetting
-- ## Subnetting Plan
+-## Addressing Table
 
-![Subnet Plan](subnet-plan.png)
+| Device | Interface | IP Address | Subnet Mask |
+|------|------|------|------|
+| R1 | Fa0/0 | 188.88.131.1 | 255.255.255.128 |
+| R1 | Fa0/1 | 188.88.129.1 | 255.255.255.0 |
+| PC7 | NIC | DHCP | |
+| PC8 | NIC | DHCP | |
 - Interface IP configuration
 
 ![Interface Status](interface.png)
