@@ -2,7 +2,9 @@
 
 ## Topology
 ![Topology](topology.png)
-subnet-plan.png
+## Subnetting Plan
+
+![Subnet Plan](subnet-plan.png)
 ## Description
 This lab demonstrates basic CCNA networking configuration using Cisco Packet Tracer.
 
