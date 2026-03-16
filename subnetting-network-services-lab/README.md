@@ -55,6 +55,8 @@ DHCP is configured on the DHCP-SITE1 server to automatically assign IP addresses
 - Maximum Number of Users: 100
 - Basic network services
 - Router security configuration
+- pc ping
+- ![ping](ping.png)
 ## How to Run
 
 1. Download the `.pka` file from this repository
