@@ -40,6 +40,19 @@ This lab demonstrates basic CCNA networking configuration using Cisco Packet Tra
 | PC8 | NIC | DHCP | DHCP | DHCP |
 
 - DHCP and DNS setup
+- ## DHCP Configuration
+
+DHCP is configured on the DHCP-SITE1 server to automatically assign IP addresses for hosts in LAN2.
+
+**DHCP Pool Settings**
+
+- Pool Name: serverPool
+- Interface: FastEthernet0
+- Default Gateway: 188.88.129.1
+- DNS Server: 200.1.1.4
+- Start IP Address: 188.88.129.10
+- Subnet Mask: 255.255.255.0
+- Maximum Number of Users: 100
 - Basic network services
 - Router security configuration
 ## How to Run
