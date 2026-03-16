@@ -28,6 +28,8 @@ This lab demonstrates basic CCNA networking configuration using Cisco Packet Tra
 
 ![Subnet Plan](subnet-plan.png)
 - Interface IP configuration
+
+![Interface Status](interface.png)
 - DHCP and DNS setup
 - Basic network services
 - Router security configuration
