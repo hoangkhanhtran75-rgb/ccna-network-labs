@@ -29,12 +29,15 @@ This lab demonstrates basic CCNA networking configuration using Cisco Packet Tra
 
 
 - Interface IP configuration
-| Device | Interface | IP Address | Subnet Mask |
-|------|------|------|------|
-| R1 | Fa0/0 | 188.88.131.1 | 255.255.255.128 |
-| R1 | Fa0/1 | 188.88.129.1 | 255.255.255.0 |
-| PC7 | NIC | DHCP | |
-| PC8 | NIC | DHCP | |
+## Addressing Table
+
+| Device | Interface | IP Address | Subnet Mask | Default Gateway |
+|------|------|------|------|------|
+| R1 | Fa0/0 | 188.88.131.1 | 255.255.255.128 | - |
+| R1 | Fa0/1 | 188.88.129.1 | 255.255.255.0 | - |
+| R1 | Serial0/0/0 | 188.88.131.129 | 255.255.255.252 | - |
+| PC7 | NIC | DHCP | DHCP | DHCP |
+| PC8 | NIC | DHCP | DHCP | DHCP |
 
 - DHCP and DNS setup
 - Basic network services
