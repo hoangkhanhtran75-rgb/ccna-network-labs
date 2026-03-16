@@ -2,9 +2,7 @@
 
 ## Topology
 ![Topology](topology.png)
-## Subnetting Plan
 
-![Subnet Plan](subnet-plan.png)
 ## Description
 This lab demonstrates basic CCNA networking configuration using Cisco Packet Tracer.
 
@@ -26,6 +24,9 @@ This lab demonstrates basic CCNA networking configuration using Cisco Packet Tra
 
 ## Skills Practiced
 - Subnetting
+- ## Subnetting Plan
+
+![Subnet Plan](subnet-plan.png)
 - Interface IP configuration
 - DHCP and DNS setup
 - Basic network services
