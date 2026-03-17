@@ -110,9 +110,21 @@ show ipv6 route
 ## 📸 Screenshots (Required)
 - Topology
 - VLAN configuration
+- ## 📸 Switch Configuration (CORE-1)
+![Switch](core-1.jpg)
+
 - EtherChannel status
 - Routing table
+- ## 📸 Routing & HSRP (DATA-1)
+![DATA](data-1.jpg)
+
+## 📸 Gateway Router Configuration
+![Gate1](gate-1.jpg)
+![Gate2](gate-12.jpg)
+![Gate3](gate-123.jpg)
 - Ping successful
+- ## 📸 Connectivity Test (Ping)
+![Ping](ping.jpg)
 
 ---
 
