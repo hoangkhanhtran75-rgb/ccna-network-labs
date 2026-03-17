@@ -12,7 +12,7 @@ This lab simulates a small enterprise network including:
 ---
 
 ## 🖼️ Topology
-![topology](topology.jbg)
+![Topology](topology.jpg)
 
 ---
 
